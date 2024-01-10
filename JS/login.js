@@ -17,6 +17,6 @@ document.getElementById('form-login').addEventListener('submit', function(event)
     console.log('Email:', email);
     console.log('Password:', password);
 
-    window.location.href = "indek.html"
+    window.location.href = "/indek.html"
 });
 
